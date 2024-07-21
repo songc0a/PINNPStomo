@@ -4,6 +4,8 @@ This repository gives the codes for "PINNPStomo: Simultaneous P- and S-wave seis
 
 # Software requirement
 Python Version: 3.8.16
+
 SCIANN 0.7.0.0
+
 TensorFlow Version: 2.10.1 
 
