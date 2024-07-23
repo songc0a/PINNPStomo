@@ -1,6 +1,6 @@
 # PINNPStomo
 
-This repository gives the codes for "PINNPStomo: Simultaneous P- and S-wave seismic traveltime tomography using physics-informed neural networks with a new factored eikonal equation".
+This repository gives the codes for "PINNPStomo: Simultaneous P- and S-wave seismic traveltime tomography using physics-informed neural networks with a new factored eikonal equation". This work has been submitted to Geophysics.
 
 # Software requirement
 Python Version: 3.8.16
