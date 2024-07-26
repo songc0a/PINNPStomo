@@ -23,13 +23,14 @@ PINNPStomo-predicted P- and S-wave velocity model.
 If you find our codes and publications helpful, please kindly cite the following publications.
 
 @article{song2024pinnpstomo,
-  
-  title={PINNPStomo: Simultaneous P- and S-wave seismic traveltime tomography using physics-informed neural networks with a new factored eikonal equation},
-  
-  author={Song, Chao and Geng, Hang and Waheed, bin Umair and Liu, Cai},
-  
-  journal={arXiv},
 
+  title={PINNPStomo: Simultaneous P-and S-wave seismic traveltime tomography using physics-informed neural networks with a new factored eikonal equation},
+  
+  author={Song, Chao and Geng, Hang and Waheed, Umair bin and Liu, Cai},
+  
+  journal={arXiv preprint arXiv:2407.16439},
+  
+  year={2024}
 }
 
 # contact information
